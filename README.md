@@ -1,4 +1,4 @@
-# project2
+
 # 🤖 AIviHire – AI-Powered Resume Ranker
 
 AIviHire is an intelligent web-based system that automates resume screening using NLP techniques. Upload multiple resumes, compare them against a job description (e.g., Data Scientist), and get ranked results based on relevance.
