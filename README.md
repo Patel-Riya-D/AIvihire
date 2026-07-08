@@ -93,4 +93,4 @@ http://127.0.0.1:5000
 ### ▶️ Run locally:
 ```bash
 pip install -r require.txt
-python app.py
+streamlit run app.py
